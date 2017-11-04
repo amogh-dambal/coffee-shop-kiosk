@@ -1,1 +1,1 @@
-# Helsing-Counter
+# rock-paper-scissors
