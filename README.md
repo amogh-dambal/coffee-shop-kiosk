@@ -1,1 +1,1 @@
-# rock-paper-scissors
+# coffee-shop-kiosk
